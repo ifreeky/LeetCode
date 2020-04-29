@@ -1,4 +1,4 @@
-package com.ifreeky.leetcode.旋转矩阵;
+package com.ifreeky.leetcode.array.旋转矩阵;
 
 /**
  * 题目：https://leetcode-cn.com/problems/rotate-matrix-lcci/

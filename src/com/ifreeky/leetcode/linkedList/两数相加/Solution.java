@@ -1,4 +1,4 @@
-package com.ifreeky.leetcode.两数相加;
+package com.ifreeky.leetcode.linkedList.两数相加;
 
 /**
  * 题目：https://leetcode-cn.com/problems/add-two-numbers/

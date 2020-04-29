@@ -1,4 +1,4 @@
-package com.ifreeky.leetcode.两数相加;
+package com.ifreeky.leetcode.linkedList.两数相加;
 
 /**
  * 官方题目中给出的ListNode数据结构
